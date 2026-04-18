@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ahenkora | Cybersecurity & Cloud Trainee
 
-<!--
-**liltymer/Liltymer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Management Student at UPSA, Accra · Fullstack Developer · Building toward a career in secure infrastructure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm focused on
+
+- Network security fundamentals and lab practice
+- Linux administration and shell scripting
+- AWS cloud architecture and security principles  
+- Python for automation and security tooling
+- Fullstack web development (React · FastAPI · PostgreSQL)
+
+---
+
+## Projects
+
+| Project | What it is | Stack |
+|--------|-----------|-------|
+| [GradeIQ UPSA](https://github.com/liltymer/upsa-frontend) | Student grading & academic management platform | React 19, FastAPI, PostgreSQL |
+| [Josh Web Pro](https://github.com/liltymer/josh-web-pro) | Personal portfolio website | React, Tailwind CSS |
+| Security Labs *(coming soon)* | Documented network security and cloud labs | Linux, Wireshark, AWS |
+
+---
+
+## Currently learning
+
+`AWS Cloud Practitioner` · `Network Security` · `Linux CLI` · `Python Automation`
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ahenkora-joshua-owusu-42a691320) · [Portfolio](https://gradeiq-upsa.vercel.app/)
